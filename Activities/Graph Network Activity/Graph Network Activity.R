@@ -12,7 +12,7 @@
 # (readxl will not be used in this activity but will likely be helpful when
 #   working with your own data set)
 library(igraph)
-library (tidyverse)
+library(tidyverse)
 library(threejs)
 library(readxl) 
 library(readr)
